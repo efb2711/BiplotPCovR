@@ -1,0 +1,11 @@
+Package: BiplotPCovR
+Type: Package
+Title: Biplot of Principal Covariates Regression results
+Version: 0.1.0
+Author: Elisa Frutos Bernal
+Maintainer: Elisa Frutos Bernal <efb@usal.es>
+Description: Enables graphical representation through two types of biplots of the results of PCovR analysis.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
